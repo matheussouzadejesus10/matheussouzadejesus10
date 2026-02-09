@@ -8,6 +8,8 @@ sou criador de conteúdo de animação e um programador de python
 - 😄 Pronomes: ele/dele.
 - ⚡ Curiosidade: Eu adoro aprender novas linguagens de programação e explorar ferramentas de design digital!
 
+E-Mall = matheussouza10emalls@gmail.com
+
 <!---
 matheus-souza-10/matheussouzadejesus10 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link de visualização para ver as alterações.
